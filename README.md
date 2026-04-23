@@ -9,10 +9,10 @@ It focuses on evaluating business performance, identifying revenue drivers, and 
 
 ## Dashboard Preview
 
-![Overview](images/overview.png)
-![Customers](images/customers.png)
-![Orders](images/orders.png)
-![Data Model](images/model.png)
+![Overview](images/Overview.png)
+![Customers](images/Customers.png)
+![Orders](images/Orders.png)
+![Data Model](images/Modeling.png)
 
 ---
 
@@ -30,7 +30,7 @@ It focuses on evaluating business performance, identifying revenue drivers, and 
 * Technology leads in total sales but also shows the highest return rate, indicating a trade-off between growth and product reliability.
 * Return rate (5.9%) suggests possible inefficiencies in fulfillment or product quality.
 * Sales are concentrated in major cities such as New York and Los Angeles, highlighting geographic dependency.
-* Negative YoY growth (-2.8%) signals a decline that requires further investigation.
+* Sales experienced a temporary decline in 2017 (-2.8% YoY), suggesting a short-term disruption rather than a consistent downward trend.
 
 ---
 
@@ -63,20 +63,6 @@ This structure improves query performance and ensures scalable analysis.
 
 ---
 
-## Project Structure
-
-```
-sales-analytics-powerbi-dashboard/
-│
-├── Sales_analysis.pbix
-├── README.md
-└── images/
-    ├── overview.png
-    ├── customers.png
-    ├── orders.png
-    └── model.png
-```
-
 ---
 
 ## How to Use
@@ -89,8 +75,7 @@ sales-analytics-powerbi-dashboard/
 
 ## Author
 
-Kareem Abdelmoomen
-Data Analyst | Power BI Developer
+**Kareem Abdelmoomen**  
+Data Analyst | Power BI Developer  
 
----
-
+🔗 [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen)

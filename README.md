@@ -10,8 +10,8 @@ It focuses on evaluating business performance, identifying revenue drivers, and 
 ## Dashboard Preview
 
 ![Overview](images/Overview.png)
-![Customers](images/Customers Dashboard.png)
-![Orders](images/Orders Dashboard.png)
+![Customers](images/Customers.png)
+![Orders](images/Orders.png)
 ![Data Model](images/Modeling.png)
 
 ---

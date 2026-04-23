@@ -10,8 +10,8 @@ It focuses on evaluating business performance, identifying revenue drivers, and 
 ## Dashboard Preview
 
 ![Overview](images/Overview.png)
-![Customers](images/Customers.png)
-![Orders](images/Orders.png)
+![Customers](images/Customers Dashboard.png)
+![Orders](images/Orders Dashboard.png)
 ![Data Model](images/Modeling.png)
 
 ---
@@ -78,4 +78,4 @@ This structure improves query performance and ensures scalable analysis.
 **Kareem Abdelmoomen**  
 Data Analyst | Power BI Developer  
 
-🔗 [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen)
+🔗 [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen)
